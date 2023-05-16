@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kr1ner
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Programming,Math and Tech
+- 🌱 I’m currently learning CS
 - 📫 How to reach me Kr1ner#2925
 
 
