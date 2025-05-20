@@ -8,7 +8,7 @@
 <p width="fit-content" display="flex" float="left">
         <img margin-left="5px" src=https://github.com/Kr1ner/Kr1ner/assets/47250537/df966a97-b241-46e7-9336-63970cc2a807 width=50>
         <img margin-left="5px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png width=50>
-        <img margin-left="5px" src=https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png](https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png width=50>
+        <img margin-left="5px" src=https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png width=50>
         <img margin-left="5px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png width=60>
         <img margin-left="5px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png width=45>
         <img margin-left="5px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png width=50>
